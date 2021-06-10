@@ -1,0 +1,14 @@
+git init
+git add -A
+git commit -m
+git checkout
+git branch
+git status
+git remote add origin
+git push -u origin master
+git log
+git pull
+git ignore
+
+
+
